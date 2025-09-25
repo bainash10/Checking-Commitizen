@@ -1,4 +1,8 @@
-## 0.0.1 (2025-09-25)
+## v0.0.2 (2025-09-25)
+
+### Feat
+
+- **test.txt**: just a message
 
 ### Refactor
 
